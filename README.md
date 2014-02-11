@@ -1,2 +1,2 @@
-tb repo
+tb repositories
 ==
